@@ -13,7 +13,7 @@ const CONFIG = {
     reply: '...',
     mess: 'Ok. Tớ cảm ơn 😘',
     messDesc: 'Tối nay cho tớ chọn tiếp nhé.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun .<3',
     messLink: 'https://m.me/beti.nhism',
 
 
